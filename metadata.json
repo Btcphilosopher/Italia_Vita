@@ -1,0 +1,6 @@
+{
+  "name": "ITALIA VITA",
+  "description": "Next-generation luxury hospitality and Italian lifestyle app featuring reservations, Club Italia loyalty, wine experiences, advance ordering, tableside service, and an AI-driven digital sommelier concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
